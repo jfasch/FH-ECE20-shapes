@@ -2,7 +2,7 @@ ADD_EXECUTABLE(
   run-tests
 
   point-suite.cpp
-  rectangle-default-ctor.cpp
+  rectangle-suite.cpp
 )
 
 TARGET_LINK_LIBRARIES(
