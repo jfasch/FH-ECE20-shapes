@@ -1,6 +1,8 @@
 CMAKE_MINIMUM_REQUIRED(VERSION 3.16)
 PROJECT(FH-ECE20-shapes)
 
+INCLUDE(CPack)
+
 set(CMAKE_CXX_STANDARD 17)
 
 # compiler options. (we only check for gcc)

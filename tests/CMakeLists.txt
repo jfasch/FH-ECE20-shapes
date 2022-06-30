@@ -3,6 +3,9 @@ ADD_EXECUTABLE(
 
   point-suite.cpp
   rectangle-suite.cpp
+
+  point3d-suite.cpp
+  cuboid-suite.cpp
 )
 
 TARGET_LINK_LIBRARIES(
